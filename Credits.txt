@@ -1,0 +1,34 @@
+Credits:
+
+Models used:
+
+Weapons
+https://assetstore.unity.com/packages/3d/props/weapons/low-poly-samurai-warrior-weapons-pack-310630
+https://assetstore.unity.com/packages/3d/props/weapons/low-poly-caribbean-pirate-weapons-pack-310626
+https://assetstore.unity.com/packages/3d/props/weapons/low-poly-viking-warrior-weapons-pack-310635
+
+Duck
+https://www.fab.com/listings/598d56f0-0317-4efb-9fcf-0098b87578e8
+
+Playground Objects
+https://assetstore.unity.com/packages/3d/environments/playground-low-poly-191533
+
+Rocks
+https://assetstore.unity.com/packages/3d/environments/environment-pack-rocks-stylized-316250#description
+
+Stump & Twig
+https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+
+Map Textures
+https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634
+
+Hit VFX
+https://assetstore.unity.com/packages/vfx/particles/hit-impact-effects-free-218385
+https://assetstore.unity.com/packages/vfx/particles/polygonal-s-low-poly-particle-pack-118355
+
+UI
+https://kenney.nl/assets
+https://toffeecraft.itch.io/ui-user-interface-mega-pack
+
+BGM
+https://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack
